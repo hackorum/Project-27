@@ -2,7 +2,7 @@ class Bob {
     constructor(x, y, r) {
 
         var options = {
-            restitution: 0.9,
+            restitution: 1.078999999,
             friction: 0.6,
             density: 1.2,
             isStatic: false
